@@ -1,4 +1,4 @@
-package com.example.kartunku_app
+package com.app.tontonankartunku
 
 import io.flutter.embedding.android.FlutterActivity
 
