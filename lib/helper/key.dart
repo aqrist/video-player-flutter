@@ -1,4 +1,4 @@
-const String apiKey = 'AIzaSyB9y-UF6Vbc2WuVnIFWMsF4dloANPm2tSU';
+const String apiKey = 'YOUR-API-KEY';
 const String playlistID = 'PLLWfkYxuW6wgZDo5oFwZrHl_ChCeAcECf';
 
 final List<String> playlistIds = [
